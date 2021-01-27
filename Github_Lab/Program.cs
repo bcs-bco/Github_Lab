@@ -13,10 +13,6 @@ namespace Github_Lab
             Animal bird = new Bird();
             bird.Move();
 
-            Animal snake = new Snake();
-            snake.Move();
-            cat.Move(); 
-
             Console.WriteLine("Animal World!");
         }
     }
