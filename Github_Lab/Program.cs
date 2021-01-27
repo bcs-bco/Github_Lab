@@ -17,6 +17,9 @@ namespace Github_Lab
             snake.Move();
             cat.Move();
 
+            Animal fish = new Fish();
+            fish.Move();
+
             Console.WriteLine("Animal World!");
         }
     }
