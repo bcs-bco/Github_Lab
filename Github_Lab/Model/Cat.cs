@@ -10,5 +10,10 @@ namespace Github_Lab.Model
         {
             Console.WriteLine("Walk By Legs");
         }
+
+        public void Jump()
+        {
+            Console.WriteLine("Cat Jump!");
+        }
     }
 }
